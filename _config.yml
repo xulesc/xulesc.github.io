@@ -1,2 +1,3 @@
 name: Anuj Sharma, Turning
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
